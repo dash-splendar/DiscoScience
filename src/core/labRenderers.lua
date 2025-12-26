@@ -19,6 +19,7 @@ labRenderers.createInitialState = function()
         labAnimations = {},
         labScales = {
             ["lab"] = 1,
+            ["biolab"] = 5 / 3,
         }
     }
 end
