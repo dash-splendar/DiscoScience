@@ -1,13 +1,12 @@
 {
-    "name": "DiscoScience",
-    "version": "2.0.2",
-    "title": "Disco Science",
-    "author": "Daniel Brauer",
-    "contact": "messagetodaniel@gmail.com",
+    "name": "DiscoScienceFever",
+    "version": "1.0",
+    "title": "Disco Science Fever",
+    "author": "Dash Splendar",
     "homepage": "",
     "factorio_version": "2.0",
     "dependencies": [
 		"base >= 2.0"
 	],
-    "description": "Science labs light up with the colour of the ingredients they're consuming, instead of always blue. More advanced recipes make a fancier show! If it's slowing down your game, try turning off \"high quality\" in the mod options."
+    "description": "An update of the original Disco Science that now works with Biolabs. Science labs light up with the colour of the ingredients they're consuming, instead of always blue. More advanced recipes make a fancier show! If it's slowing down your game, try turning off \"high quality\" in the mod options."
 }
